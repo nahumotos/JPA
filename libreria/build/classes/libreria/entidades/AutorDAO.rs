@@ -1,0 +1,3 @@
+libreria.persistencia.AutorDAO
+JPA_Ejemplo_2.persistencia.DireccionDAO
+JPA_Ejemplo_2.persistencia.AutorDAO
